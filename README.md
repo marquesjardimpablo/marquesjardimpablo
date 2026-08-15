@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá! 👋 Eu sou o Pablo Marques Jardim
 
-<!--
-**marquesjardimpablo/marquesjardimpablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software no [Inatel](https://inatel.br/), em Santa Rita do Sapucaí, Minas Gerais.
 
-Here are some ideas to get you started:
+Tenho familiaridade com Python e atualmente estou estudando C++, Selenium e JSON. Também estou começando a aplicar o que aprendo em projetos próprios e evoluindo gradualmente na área de desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+- 📚 Gosto de aprender sobre assuntos variados e experimentar coisas novas por curiosidade, como ilusionismo, xadrez, pixel art e outros temas que despertam meu interesse.
+- 💻 Tenho interesse por programação, tecnologia e ciência.
+- 🔎 Gosto de acompanhar conteúdos e descobrir coisas novas.
+- 🏋️ Gosto de praticar academia.
+
+Este perfil ainda está em construção. Em breve, pretendo publicar meus primeiros projetos.
+
+## Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/pablo-marques-jardim)
