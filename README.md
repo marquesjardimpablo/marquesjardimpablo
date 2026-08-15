@@ -11,8 +11,6 @@ Tenho familiaridade com Python e atualmente estou estudando C++, Selenium e JSON
 - 🔎 Gosto de acompanhar conteúdos e descobrir coisas novas.
 - 🏋️ Gosto de praticar academia.
 
-Este perfil ainda está em construção. Em breve, pretendo publicar meus primeiros projetos.
-
 ## Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/pablo-marques-jardim)
